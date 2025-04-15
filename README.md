@@ -29,6 +29,8 @@ and then visualized through Power BI for insights.
 
 See how to split the dataset into smaller chunk [Python Script](split_files.py).<br>
 Creating table and connceting to S3 bucket [SQL Workbook](<LiquorTable Creation.sql>)<br>
-Cleaning and standardizing the data [SQL Workbook](<LiquorTable DataStandardization.sql>)<br><br>
+Cleaning and standardizing the data [SQL Workbook](<LiquorTable DataStandardization.sql>)<br>
+
+Download the dataset here [Dataset](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales/data)
 
 
