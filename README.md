@@ -27,7 +27,7 @@ and then visualized through Power BI for insights.
 
 <hr style="height: 5px; border: none; background-color: #333;" />
 
-See how to split the dataset into smaller chunk [Python Script](split_files.py).<br>
+See how to split the dataset into smaller chunks [Python Script](split_files.py).<br>
 Creating table and connceting to S3 bucket [SQL Workbook](<LiquorTable Creation.sql>)<br>
 Cleaning and standardizing the data [SQL Workbook](<LiquorTable DataStandardization.sql>)<br>
 
